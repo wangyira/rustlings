@@ -4,7 +4,7 @@
 // I AM NOT DONE
 
 fn main() {
-    let x;
+    let x = 1;
     if x == 10 {
         println!("Ten!");
     } else {
